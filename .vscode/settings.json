@@ -1,0 +1,7 @@
+{
+    "javascript.inlayHints.functionLikeReturnTypes.enabled": true,
+    "javascript.inlayHints.enumMemberValues.enabled": true,
+    "javascript.referencesCodeLens.showOnAllFunctions": true,
+    "javascript.validate.enable": false,
+    "cSpell.language": "uk,en,ru,en-GB"
+}
